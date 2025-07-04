@@ -1,6 +1,6 @@
 # leopard-bike-site
 
-# 🚀 Urban Spring: Bike Showroom Management System
+# 🚀 Urban Sprint: Bike Showroom Management System
 
 A web-based management system developed to streamline and automate daily operations of a bike showroom. This project allows efficient handling of bike inventory, sales, customer details, and billing, all through an intuitive interface.
 
